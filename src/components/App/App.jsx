@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { fetchImages } from "../unsplash-api.js";
+import { fetchImages } from "../../unsplash-api.js";
 
 import SearchBar from '../SearchBar/SearchBar.jsx';
 import ErrorMessage from '../ErrorMessage/ErrorMessage.jsx';
