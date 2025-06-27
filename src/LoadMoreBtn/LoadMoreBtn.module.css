@@ -1,0 +1,12 @@
+.footer {
+    height: 40px;
+    background-color: #0000ff;
+    display: grid;
+}
+
+.loadMoreBtn {
+    margin: 4px auto;
+    background-color: #fcfcfc;
+    border-radius: 5px;
+    padding: 6px;
+}

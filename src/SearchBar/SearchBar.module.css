@@ -1,0 +1,21 @@
+.header {
+    background-color: #00f;
+    padding: 6px;
+    position: sticky;
+    top: 0px;
+}
+
+.form {
+    display: flex;
+    gap: 5px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.input {}
+
+.btnSubmit {
+    background-color: #fcfcfc;
+    border-radius: 5px;
+    padding: 5px;
+}
