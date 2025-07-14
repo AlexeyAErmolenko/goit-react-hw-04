@@ -28,10 +28,6 @@ export default function App() {
     setPage(1);
     setImages([]);
   };
-
-  // const handleClick = () => {
-  //   setPage(page + 1);
-  // }
     
   useEffect(() => {
     if (query === "") { return; }
